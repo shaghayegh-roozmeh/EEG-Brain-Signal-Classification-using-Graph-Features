@@ -34,4 +34,5 @@ These matrices are then converted into graphs, and features such as node degree,
 
 ## ✅ Best Result
 - PLV + Random Forest achieved the highest mean accuracy of 0.79
+- correlation matrices + Random Forest the highest mean accuracy of 0.79
 
